@@ -12,20 +12,21 @@ Where the shortcut is provided by a package, I have added a link to the package.
 
 Some general keyboard shortcuts that I use frequently.
 
-| Command | macOS | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
-| Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
-| Open File (Fuzzy) | `cmd-p` <br/>or<br/> `cmd-t` | `ctrl-p` <br/>or<br/> `ctrl-t`  | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
-| Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
-| Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
-| Markdown Preview | `ctrl-shift-m` | `ctrl-shift-m`  | `ctrl-shift-m` | Previews the file in the Markdown format |
-| Key Binding Resolver | `cmd-.` | `ctrl-.`  | `ctrl-.` | Shows what keybindings the pressed key combination resolves to |
-| Toggle Tree View | `cmd-k cmd-b`<br/>or<br/>`cmd-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\`| Toggles Atom's file Tree View |
-| Reload Atom | `ctrl-alt-cmd-l` | `alt-ctrl-r` | `alt-ctrl-r` | Reloads the Editor  |
-| Open Link | `ctrl-shift-o` |  |  | Opens up a HTTP or HTTPS link |
-| Toggle Developer Tools | `alt-cmd-i` | `ctrl-alt-i`  | `ctrl-shift-i` | Opens up the Chrome Developer Tools/Console |
-| Show Available Snippets | `alt-shift-s` | `alt-shift-s`  | `alt-shift-s` | Shows the snippets available to Atom  |
+| Command                 | macOS                            | Windows                             | Linux                               | Description                                                           |
+| ----------------------- | -------------------------------- | ----------------------------------- | ----------------------------------- | --------------------------------------------------------------------- |
+| Preferences/Settings    | `cmd-,`                          | `ctrl-,`                            | `ctrl-,`                            | Opens the Preferences/Settings view                                   |
+| Command Palette         | `shift-cmd-p`                    | `shift-ctrl-p`                      | `ctrl-shift-p`                      | Opens & closes the command palette                                    |
+| Open File (Fuzzy)       | `cmd-p` <br/>or<br/> `cmd-t`     | `ctrl-p` <br/>or<br/> `ctrl-t`      | `ctrl-p` <br/>or<br/> `ctrl-t`      | Opens the Fuzzy Finder palette in which you can search and open files |
+| Browse Open Files       | `cmd-b`                          | `ctrl-b`                            | `ctrl-b`                            | Browse tabs within the window                                         |
+| Grammar Selector        | `ctrl-shift-l`                   | `ctrl-shift-l`                      | `ctrl-shift-l`                      | Selects the language the file is in                                   |
+| Markdown Preview        | `ctrl-shift-m`                   | `ctrl-shift-m`                      | `ctrl-shift-m`                      | Previews the file in the Markdown format                              |
+| Key Binding Resolver    | `cmd-.`                          | `ctrl-.`                            | `ctrl-.`                            | Shows what keybindings the pressed key combination resolves to        |
+| Toggle Tree View        | `cmd-k cmd-b`<br/>or<br/>`cmd-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | `ctrl-k ctrl-b`<br/>or<br/>`ctrl-\` | Toggles Atom's file Tree View                                         |
+| Reload Atom             | `ctrl-alt-cmd-l`                 | `alt-ctrl-r`                        | `alt-ctrl-r`                        | Reloads the Editor                                                    |
+| Open Link               | `ctrl-shift-o`                   |                                     |                                     | Opens up a HTTP or HTTPS link                                         |
+| Toggle Developer Tools  | `alt-cmd-i`                      | `ctrl-alt-i`                        | `ctrl-shift-i`                      | Opens up the Chrome Developer Tools/Console                           |
+| Show Available Snippets | `alt-shift-s`                    | `alt-shift-s`                       | `alt-shift-s`                       | Shows the snippets available to Atom                                  |
+| Markdown Render                        | `ctrl-x`                                 |                                     |                                     |                                                                Renders LaTeX formatting in Markdown Preview       |
 
 
 ## Window Management
