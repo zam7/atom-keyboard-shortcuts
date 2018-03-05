@@ -26,7 +26,7 @@ Some general keyboard shortcuts that I use frequently.
 | Open Link               | `ctrl-shift-o`                   |                                     |                                     | Opens up a HTTP or HTTPS link                                         |
 | Toggle Developer Tools  | `alt-cmd-i`                      | `ctrl-alt-i`                        | `ctrl-shift-i`                      | Opens up the Chrome Developer Tools/Console                           |
 | Show Available Snippets | `alt-shift-s`                    | `alt-shift-s`                       | `alt-shift-s`                       | Shows the snippets available to Atom                                  |
-| Markdown Render                        | `ctrl-x`                                 |                                     |                                     |                                                                Renders LaTeX formatting in Markdown Preview       |
+| Markdown Render                        | `ctrl-shift-x`                                 |                                     |                                     |                                                                Renders LaTeX formatting in Markdown Preview       |
 
 
 ## Window Management
